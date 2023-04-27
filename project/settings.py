@@ -141,7 +141,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # Jazzmin settings
 
 JAZZMIN_SETTINGS = {
-    "site_logo": "images/LOGO-2.png",
+    "site_logo": "images/computer accessory.png",
     "site_brand": "Capacity Admin Page",
     "welcome_sign": "Welcome Admin",
     "search_model": "auth.User",

@@ -16,8 +16,8 @@ class EmailThread(threading.Thread):
 
 def send_welcome_email(name,receiver):
     # Creating message subject and sender
-    subject = 'Welcome to Capacity Limited'
-    sender = 'fitstargilii1194@gmail.com'
+    subject = 'Welcome to Computer Accesories'
+    sender = 'sharonchepngeno@gmail.com'
 
     #passing in the context vairables
     text_content = render_to_string('email/register-email.txt',{"name": name})
